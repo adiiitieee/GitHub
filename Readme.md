@@ -2,3 +2,5 @@
 
 updated readme 
 git pull
+
+-conflict
