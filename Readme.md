@@ -1,4 +1,6 @@
 # This is Readme.
 
-updated readme 
-git pull
+-updated readme 
+-git pull
+
+-no conflict
